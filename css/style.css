@@ -5,3 +5,16 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Roboto', sans-serif;
 }
+.header-area{
+    background-color:#FFFBF0;;
+}
+.card-image{
+    background-color: #F1F1F1;;
+}
+.single-image{
+    margin: 30px;
+}
+.card-image img{
+    width: 80%;
+}
+
