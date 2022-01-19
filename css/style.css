@@ -16,8 +16,8 @@ body{
     font-size: 36px;
     color:#FABE4C;
     font-weight: 900;
-}.
-button.buy-button{
+}
+.btn-buy{
     background-color: #A4BC46 !important;
     color: #fff;
 }
