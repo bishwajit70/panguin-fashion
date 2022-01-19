@@ -11,10 +11,23 @@ body{
 .card-image{
     background-color: #F1F1F1;;
 }
+.pricing-area h2{
+    margin-bottom: 0px;
+    font-size: 36px;
+    color:#FABE4C;
+    font-weight: 900;
+}.
+button.buy-button{
+    background-color: #A4BC46 !important;
+    color: #fff;
+}
 .single-image{
     margin: 30px;
 }
-.card-image img{
+.card-image img, .shop-image img{
     width: 80%;
+}
+.card{
+    border: none;
 }
 
